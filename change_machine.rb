@@ -37,3 +37,4 @@ def calculations(input)
 
 	return total
 end
+

@@ -14,3 +14,4 @@ post '/change_display' do
 
 	erb :display, :locals => {:total => session[:total]}
 end
+

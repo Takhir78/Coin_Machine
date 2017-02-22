@@ -16,3 +16,4 @@ class TestCoinMachine < Minitest::Test
 	end	
 
 end
+
