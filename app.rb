@@ -3,7 +3,7 @@ require_relative 'change_machine.rb'
 enable :sessions
 
 get '/' do 
-	erb :input
+	erb :input 
 end
 
 post '/change_display' do 
